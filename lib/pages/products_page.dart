@@ -19,7 +19,10 @@ class _ProductsPageState extends State<ProductsPage> {
 
   Future<void> fetch()async{
     var result= await allProductsRepo.readJson();
-    products=result;
+    setState(() {
+      count++;
+      products=result;
+    });
   }
   @override
   Widget build(BuildContext context) {
