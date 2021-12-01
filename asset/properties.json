@@ -1,0 +1,27 @@
+[
+  {
+    "name":"Camera",
+    "photo":"asset/camera.png",
+    "price" : "64000",
+    "description" : "Digital DSLR camera with amazing features"
+  },
+  {
+    "name":"HeadPhone",
+    "photo":"asset/headphone.png",
+    "price" : "1000",
+    "description" : "New Trending Wireless Blue tooth, Headphones IPX4 Waterproof Blue tooth Earphones with Magnetic Connection"
+  },
+  {
+    "name":"Laptop",
+    "photo":"asset/laptop.png",
+    "price" : "70000",
+    "description" : "5.6 inch high quality i3 gaming laptop with RJ45 port"
+  },
+  {
+    "name":"Watch",
+    "photo":"asset/watch.png",
+    "price" : "5000",
+    "description" : "College style multifunctional men's charm waterproof custom watches men sport"
+  }
+
+]
